@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Alice",
+      "email": "alice@wonderland.wl",
+      "age": 13
+    },
+    {
+      "id": "2",
+      "name": "Bob",
+      "email": "bob@burgers.com",
+      "age": 46
+    },
+    {
+      "id": "3",
+      "name": "Jean-luc",
+      "email": "JLP@thefederation.space",
+      "age": 58
+    }
+  ]
+}
